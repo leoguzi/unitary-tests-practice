@@ -1,0 +1,1 @@
+{"slug":"memepedia-badwords","scripts":{"test":"docker-compose -f ./.hub/docker-compose.test.yml --env-file ../.env up --build","start":"docker-compose -f ./.hub/docker-compose.yml --env-file ../.env up","setup":"docker-compose -f ./.hub/docker-compose.yml --env-file ../.env build"}}
